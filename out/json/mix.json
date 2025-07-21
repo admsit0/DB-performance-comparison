@@ -1,0 +1,1361 @@
+[
+    {
+        "nombre_usuario": "Encarnacion Vargas Ari\u00f1o",
+        "dni_usuario": "60824070H",
+        "email_usuario": "encarnacionvargasari\u00f1o1321056@yahoo.com",
+        "telefono_movil_usuario": "+34942386259",
+        "telefono_fijo_usuario": "984271123",
+        "direccion_usuario": "Vial de Marcelino Alcolea 8 Piso 2 ",
+        "ciudad_usuario": "N\u00edjar",
+        "codigo_postal_usuario": "04151",
+        "provincia_usuario": "Almer\u00eda",
+        "coches": [
+            {
+                "matricula": "8661-DTY",
+                "numero_bastidor": "BY0A2T918W4U0NCET",
+                "anno": 2005,
+                "marca": "Toyota",
+                "modelo": "Yaris",
+                "categoria": "furgoneta"
+            },
+            {
+                "matricula": "5891-DSP",
+                "numero_bastidor": "9V3FVNWZ5ZA6APEUB",
+                "anno": 2006,
+                "marca": "Honda",
+                "modelo": "Jazz",
+                "categoria": "monovolumen"
+            },
+            {
+                "matricula": "9029-BZW",
+                "numero_bastidor": "B2JA940K806120P2R",
+                "anno": 2002,
+                "marca": "Honda",
+                "modelo": "Accord",
+                "categoria": "furgoneta"
+            },
+            {
+                "matricula": "LE-9462-DL",
+                "numero_bastidor": "E926TFDS6EKDLXD9G",
+                "anno": 1997,
+                "marca": "Kia",
+                "modelo": "Sorento",
+                "categoria": "sed\u00e1n"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Martirio Tejero",
+        "dni_usuario": "59819305P",
+        "email_usuario": "martiriotejero3417259@gmail.com",
+        "telefono_movil_usuario": "+34873776501",
+        "telefono_fijo_usuario": "979558263",
+        "direccion_usuario": "C. de Lorenza Benavides 16",
+        "ciudad_usuario": "Badolatosa",
+        "codigo_postal_usuario": "41570",
+        "provincia_usuario": "Sevilla",
+        "coches": [
+            {
+                "matricula": "4547-HXL",
+                "numero_bastidor": "G5VYCG6768JJRVDBS",
+                "anno": 2013,
+                "marca": "Mazda",
+                "modelo": "CX-5",
+                "categoria": "sed\u00e1n"
+            },
+            {
+                "matricula": "1980-BCF",
+                "numero_bastidor": "98G1KFNW0H51U46RE",
+                "anno": 2000,
+                "marca": "Honda",
+                "modelo": "CR-V",
+                "categoria": "urbanos"
+            },
+            {
+                "matricula": "TO-1692-JL",
+                "numero_bastidor": "V48UNG618NPGKHS9F",
+                "anno": 1992,
+                "marca": "Peugeot",
+                "modelo": "508",
+                "categoria": "furgoneta"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Evelia Campoy Pons",
+        "dni_usuario": "41528721J",
+        "email_usuario": "eveliacampoypons3615279@gmail.com",
+        "telefono_movil_usuario": "+34971185534",
+        "telefono_fijo_usuario": "926950799",
+        "direccion_usuario": "C. Sarita Vall 75 Puerta 4 ",
+        "ciudad_usuario": "Corrales, Los",
+        "codigo_postal_usuario": "41565",
+        "provincia_usuario": "Sevilla",
+        "coches": [
+            {
+                "matricula": "1256-HDG",
+                "numero_bastidor": "1DL32MGV9FK8B469N",
+                "anno": 2011,
+                "marca": "Peugeot",
+                "modelo": "208",
+                "categoria": "berlina"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Pelayo Mar\u00edn Manuel",
+        "dni_usuario": "54433350D",
+        "email_usuario": "pelayomar\u00ednmanuel5746915@gmail.com",
+        "telefono_movil_usuario": "+34987404696",
+        "telefono_fijo_usuario": "980859230",
+        "direccion_usuario": "Camino Cayetana Azcona 36 Apt. 31 ",
+        "ciudad_usuario": "Lal\u00edn",
+        "codigo_postal_usuario": "36598",
+        "provincia_usuario": "Pontevedra",
+        "coches": [
+            {
+                "matricula": "CA-3958-PR",
+                "numero_bastidor": "TZYFCN5Z93DKAYABL",
+                "anno": 1990,
+                "marca": "Skoda",
+                "modelo": "Kodiaq",
+                "categoria": "descapotable"
+            },
+            {
+                "matricula": "4544-KMS",
+                "numero_bastidor": "GNSNYNGTXFYDC9SS4",
+                "anno": 2019,
+                "marca": "Skoda",
+                "modelo": "Kodiaq",
+                "categoria": "descapotable"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Jose Francisco Porras Casals",
+        "dni_usuario": "07547356K",
+        "email_usuario": "josefranciscoporrascasals1318868@hotmail.com",
+        "telefono_movil_usuario": "+34945311031",
+        "telefono_fijo_usuario": "942751927",
+        "direccion_usuario": "Acceso Juan Manuel Vidal 17",
+        "ciudad_usuario": "Melilla",
+        "codigo_postal_usuario": "52004",
+        "provincia_usuario": "Ceuta",
+        "coches": [
+            {
+                "matricula": "6691-MRL",
+                "numero_bastidor": "UU5NWEZ1X3KYPGFZD",
+                "anno": 2023,
+                "marca": "Hyundai",
+                "modelo": "Elantra",
+                "categoria": "furgoneta"
+            },
+            {
+                "matricula": "4485-JPF",
+                "numero_bastidor": "BJE1UVWG6BB7BZDBX",
+                "anno": 2017,
+                "marca": "Mercedes-Benz",
+                "modelo": "S-Class",
+                "categoria": "sed\u00e1n"
+            },
+            {
+                "matricula": "1170-DBK",
+                "numero_bastidor": "U88WDBTS5S1V72FCD",
+                "anno": 2005,
+                "marca": "Hyundai",
+                "modelo": "i30",
+                "categoria": "berlina"
+            },
+            {
+                "matricula": "2813-JSK",
+                "numero_bastidor": "SLJ6D9435SX0NWWEU",
+                "anno": 2015,
+                "marca": "Audi",
+                "modelo": "Q7",
+                "categoria": "descapotable"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Ferm\u00edn Garcia Barriga",
+        "dni_usuario": "16739924H",
+        "email_usuario": "ferm\u00edngarciabarriga5688890@hotmail.com",
+        "telefono_movil_usuario": "+34926611622",
+        "telefono_fijo_usuario": "944741500",
+        "direccion_usuario": "Camino de Tadeo Egea 25",
+        "ciudad_usuario": "Granado, El",
+        "codigo_postal_usuario": "21594",
+        "provincia_usuario": "Huelva",
+        "coches": [
+            {
+                "matricula": "C-4714-KW",
+                "numero_bastidor": "6J3F49YA626TYN5JP",
+                "anno": 1996,
+                "marca": "Mazda",
+                "modelo": "MX-5",
+                "categoria": "descapotable"
+            },
+            {
+                "matricula": "V-7079-JX",
+                "numero_bastidor": "AFXBR4B44YUPGY1WK",
+                "anno": 1996,
+                "marca": "Renault",
+                "modelo": "Clio",
+                "categoria": "berlina"
+            },
+            {
+                "matricula": "1860-BNS",
+                "numero_bastidor": "A23CPTHX60194CSV7",
+                "anno": 2002,
+                "marca": "Nissan",
+                "modelo": "Juke",
+                "categoria": "deportivo"
+            },
+            {
+                "matricula": "8738-BNF",
+                "numero_bastidor": "M07PVW261F2L7HYH6",
+                "anno": 2000,
+                "marca": "Toyota",
+                "modelo": "Camry",
+                "categoria": "urbanos"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Zacar\u00edas Franco",
+        "dni_usuario": "10914400A",
+        "email_usuario": "zacar\u00edasfranco929439@gmail.com",
+        "telefono_movil_usuario": "+34883983628",
+        "telefono_fijo_usuario": "912702307",
+        "direccion_usuario": "Rambla de Mariana Ba\u00f1os 774",
+        "ciudad_usuario": "Allariz",
+        "codigo_postal_usuario": "32669",
+        "provincia_usuario": "Ourense",
+        "coches": [
+            {
+                "matricula": "5363-GYR",
+                "numero_bastidor": "YF6UNW83XT67MSAH9",
+                "anno": 2010,
+                "marca": "BMW",
+                "modelo": "Z4",
+                "categoria": "urbanos"
+            },
+            {
+                "matricula": "5930-CBT",
+                "numero_bastidor": "L4L2EZTY8VF17W6HB",
+                "anno": 2003,
+                "marca": "Peugeot",
+                "modelo": "308",
+                "categoria": "SUV"
+            },
+            {
+                "matricula": "7658-HGY",
+                "numero_bastidor": "PHNFAP6H4SX63PAZN",
+                "anno": 2014,
+                "marca": "Renault",
+                "modelo": "Megane",
+                "categoria": "urbanos"
+            },
+            {
+                "matricula": "9779-HHW",
+                "numero_bastidor": "SV77LHVY7ACS4722Z",
+                "anno": 2011,
+                "marca": "Honda",
+                "modelo": "CR-V",
+                "categoria": "todoterreno"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Adriana Bastida",
+        "dni_usuario": "65500398D",
+        "email_usuario": "adrianabastida2828548@yahoo.com",
+        "telefono_movil_usuario": "+34928726779",
+        "telefono_fijo_usuario": "948499823",
+        "direccion_usuario": "Vial Malena Calatayud 85",
+        "ciudad_usuario": "Elche/Elx",
+        "codigo_postal_usuario": "03139",
+        "provincia_usuario": "Alicante/Alacant",
+        "coches": [
+            {
+                "matricula": "2219-LZP",
+                "numero_bastidor": "C4HSCDWG3JR2ENAN7",
+                "anno": 2020,
+                "marca": "Kia",
+                "modelo": "Ceed",
+                "categoria": "SUV"
+            },
+            {
+                "matricula": "CU-7961-XT",
+                "numero_bastidor": "LPK38EXG347DEWKB9",
+                "anno": 1999,
+                "marca": "Fiat",
+                "modelo": "Tipo",
+                "categoria": "furgoneta"
+            },
+            {
+                "matricula": "9503-HJL",
+                "numero_bastidor": "DYZA5UFY3JKV8J3P2",
+                "anno": 2012,
+                "marca": "Mercedes-Benz",
+                "modelo": "E-Class",
+                "categoria": "SUV"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Emiliano Amado Mur Aragon\u00e9s",
+        "dni_usuario": "73538066M",
+        "email_usuario": "emilianoamadomuraragon\u00e9s1642748@gmail.com",
+        "telefono_movil_usuario": "+34869951456",
+        "telefono_fijo_usuario": "919750796",
+        "direccion_usuario": "Camino de Gisela Aguirre 52 Puerta 2 ",
+        "ciudad_usuario": "Graus",
+        "codigo_postal_usuario": "22480",
+        "provincia_usuario": "Huesca",
+        "coches": [
+            {
+                "matricula": "5847-GNH",
+                "numero_bastidor": "N1GY2SD97HE4XWVDC",
+                "anno": 2009,
+                "marca": "Mazda",
+                "modelo": "MX-5",
+                "categoria": "SUV"
+            },
+            {
+                "matricula": "6101-KPN",
+                "numero_bastidor": "UGUSCEK12055XNXFE",
+                "anno": 2019,
+                "marca": "Volkswagen",
+                "modelo": "Golf",
+                "categoria": "SUV"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Morena Ochoa-Tom\u00e9",
+        "dni_usuario": "93112023L",
+        "email_usuario": "morenaochoa-tom\u00e99664021@gmail.com",
+        "telefono_movil_usuario": "+34982621002",
+        "telefono_fijo_usuario": "987607472",
+        "direccion_usuario": "Avenida de Marcial Rosado 63 Piso 8 ",
+        "ciudad_usuario": "Pujalt",
+        "codigo_postal_usuario": "08282",
+        "provincia_usuario": "Barcelona",
+        "coches": [
+            {
+                "matricula": "6908-HHG",
+                "numero_bastidor": "TWDM264391BVXDK77",
+                "anno": 2013,
+                "marca": "Mercedes-Benz",
+                "modelo": "GLC",
+                "categoria": "cup\u00e9"
+            },
+            {
+                "matricula": "5034-DHZ",
+                "numero_bastidor": "XHS1YC7C33MVL349K",
+                "anno": 2006,
+                "marca": "Ford",
+                "modelo": "Mustang",
+                "categoria": "deportivo"
+            },
+            {
+                "matricula": "SO-7460-LV",
+                "numero_bastidor": "R341UAVZ0W7G0UJCZ",
+                "anno": 1991,
+                "marca": "Audi",
+                "modelo": "A4",
+                "categoria": "cup\u00e9"
+            },
+            {
+                "matricula": "ZA-7323-MJ",
+                "numero_bastidor": "RZUUSY9A4KGMMF154",
+                "anno": 1995,
+                "marca": "Mazda",
+                "modelo": "Mazda3",
+                "categoria": "urbanos"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Azeneth Torre Sol\u00eds",
+        "dni_usuario": "28902371L",
+        "email_usuario": "azenethtorresol\u00eds9884593@hotmail.com",
+        "telefono_movil_usuario": "+34837708247",
+        "telefono_fijo_usuario": "944441906",
+        "direccion_usuario": "Pasadizo Nando Monreal 5",
+        "ciudad_usuario": "Castro-Urdiales",
+        "codigo_postal_usuario": "39700",
+        "provincia_usuario": "Cantabria",
+        "coches": [
+            {
+                "matricula": "4055-FND",
+                "numero_bastidor": "V1DUH36M3Y3H41D4L",
+                "anno": 2008,
+                "marca": "Seat",
+                "modelo": "Arona",
+                "categoria": "descapotable"
+            },
+            {
+                "matricula": "LU-7013-GT",
+                "numero_bastidor": "Z8JJUYLN2SXRBNUB0",
+                "anno": 1999,
+                "marca": "Honda",
+                "modelo": "Jazz",
+                "categoria": "cup\u00e9"
+            },
+            {
+                "matricula": "7547-FML",
+                "numero_bastidor": "9KD6YGT00ZCR3EM4J",
+                "anno": 2008,
+                "marca": "Skoda",
+                "modelo": "Fabia",
+                "categoria": "furgoneta"
+            },
+            {
+                "matricula": "8648-JWP",
+                "numero_bastidor": "RW7WTLSW4YXDKTP5A",
+                "anno": 2016,
+                "marca": "Mercedes-Benz",
+                "modelo": "GLC",
+                "categoria": "SUV"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Cecilia Criado Perez",
+        "dni_usuario": "22804370P",
+        "email_usuario": "ceciliacriadoperez1252284@yahoo.com",
+        "telefono_movil_usuario": "+34925384204",
+        "telefono_fijo_usuario": "984464709",
+        "direccion_usuario": "Cuesta \u00c1gata Carro 31 Piso 3 ",
+        "ciudad_usuario": "Balmaseda",
+        "codigo_postal_usuario": "48800",
+        "provincia_usuario": "Bizkaia",
+        "coches": [
+            {
+                "matricula": "5392-GNK",
+                "numero_bastidor": "3WH6HGKX9XTCMD842",
+                "anno": 2009,
+                "marca": "Audi",
+                "modelo": "Q5",
+                "categoria": "cup\u00e9"
+            },
+            {
+                "matricula": "HU-8531-SR",
+                "numero_bastidor": "HVWWDZT858LW1KYVY",
+                "anno": 1990,
+                "marca": "Mercedes-Benz",
+                "modelo": "E-Class",
+                "categoria": "berlina"
+            },
+            {
+                "matricula": "3836-LTJ",
+                "numero_bastidor": "RY1U91RZ3EU94AZFR",
+                "anno": 2021,
+                "marca": "Volkswagen",
+                "modelo": "Golf",
+                "categoria": "todoterreno"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Luna Juan",
+        "dni_usuario": "06900252E",
+        "email_usuario": "lunajuan1372844@yahoo.com",
+        "telefono_movil_usuario": "+34884883721",
+        "telefono_fijo_usuario": "945819498",
+        "direccion_usuario": "Alameda de Paca Ugarte 28",
+        "ciudad_usuario": "Rebolledo de la Torre",
+        "codigo_postal_usuario": "34492",
+        "provincia_usuario": "Palencia",
+        "coches": [
+            {
+                "matricula": "PO-1767-BW",
+                "numero_bastidor": "5NN00SDY0E1D7KT9G",
+                "anno": 1993,
+                "marca": "Toyota",
+                "modelo": "RAV4",
+                "categoria": "deportivo"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Evita Urrutia-Serna",
+        "dni_usuario": "89087110Z",
+        "email_usuario": "evitaurrutia-serna1783844@hotmail.com",
+        "telefono_movil_usuario": "+34707620421",
+        "telefono_fijo_usuario": "930852883",
+        "direccion_usuario": "Ca\u00f1ada Ciro Rueda 9",
+        "ciudad_usuario": "Viso del Marqu\u00e9s",
+        "codigo_postal_usuario": "13739",
+        "provincia_usuario": "Ciudad Real",
+        "coches": [
+            {
+                "matricula": "T-8492-NT",
+                "numero_bastidor": "SBJKX5K48NPHH4DD9",
+                "anno": 1999,
+                "marca": "Audi",
+                "modelo": "A4",
+                "categoria": "monovolumen"
+            },
+            {
+                "matricula": "4406-LJZ",
+                "numero_bastidor": "LM7DUV248NH6TRZK7",
+                "anno": 2021,
+                "marca": "Skoda",
+                "modelo": "Octavia",
+                "categoria": "todoterreno"
+            },
+            {
+                "matricula": "3838-HPK",
+                "numero_bastidor": "45C09DA96PH0XZ9CC",
+                "anno": 2011,
+                "marca": "Skoda",
+                "modelo": "Octavia",
+                "categoria": "urbanos"
+            },
+            {
+                "matricula": "TE-6988-RN",
+                "numero_bastidor": "X04ANYGM77AZ1WDHN",
+                "anno": 1991,
+                "marca": "Audi",
+                "modelo": "Q7",
+                "categoria": "berlina"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "\u00c1ngel Ribas-Coloma",
+        "dni_usuario": "94837989L",
+        "email_usuario": "\u00e1ngelribas-coloma5556563@yahoo.com",
+        "telefono_movil_usuario": "+34841322324",
+        "telefono_fijo_usuario": "971396032",
+        "direccion_usuario": "Alameda Enrique Gelabert 44",
+        "ciudad_usuario": "Palma de Mallorca",
+        "codigo_postal_usuario": "07608",
+        "provincia_usuario": "Balears, Illes",
+        "coches": [
+            {
+                "matricula": "8637-MRK",
+                "numero_bastidor": "3N7N49G82K3JMK4BM",
+                "anno": 2023,
+                "marca": "Renault",
+                "modelo": "Clio",
+                "categoria": "monovolumen"
+            },
+            {
+                "matricula": "1663-FDT",
+                "numero_bastidor": "3UYKPCMM0FF9V40T5",
+                "anno": 2007,
+                "marca": "Fiat",
+                "modelo": "500",
+                "categoria": "descapotable"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Mercedes Falc\u00f3",
+        "dni_usuario": "21064955Z",
+        "email_usuario": "mercedesfalc\u00f33762239@gmail.com",
+        "telefono_movil_usuario": "+34845318273",
+        "telefono_fijo_usuario": "994852169",
+        "direccion_usuario": "Cuesta de Araceli Almeida 64 Puerta 7 ",
+        "ciudad_usuario": "Santorcaz",
+        "codigo_postal_usuario": "28818",
+        "provincia_usuario": "Madrid",
+        "coches": [
+            {
+                "matricula": "3978-HFB",
+                "numero_bastidor": "T5B7SJM20JD0785WA",
+                "anno": 2014,
+                "marca": "BMW",
+                "modelo": "Z4",
+                "categoria": "sed\u00e1n"
+            },
+            {
+                "matricula": "PO-1387-JW",
+                "numero_bastidor": "CYDN5CVD98BF40SG7",
+                "anno": 1993,
+                "marca": "Ford",
+                "modelo": "Mustang",
+                "categoria": "descapotable"
+            },
+            {
+                "matricula": "3791-KXP",
+                "numero_bastidor": "6M0Y9G6X402PMU31N",
+                "anno": 2018,
+                "marca": "Fiat",
+                "modelo": "500",
+                "categoria": "berlina"
+            },
+            {
+                "matricula": "8048-LRV",
+                "numero_bastidor": "H71YMLL109G6TWVRV",
+                "anno": 2022,
+                "marca": "Hyundai",
+                "modelo": "Elantra",
+                "categoria": "furgoneta"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Camilo Sosa Acu\u00f1a",
+        "dni_usuario": "70037960Q",
+        "email_usuario": "camilososaacu\u00f1a2528515@hotmail.com",
+        "telefono_movil_usuario": "+34848780562",
+        "telefono_fijo_usuario": "988600595",
+        "direccion_usuario": "Rambla de Odalys Zamora 621 Puerta 7 ",
+        "ciudad_usuario": "Campo",
+        "codigo_postal_usuario": "22451",
+        "provincia_usuario": "Huesca",
+        "coches": [
+            {
+                "matricula": "8713-LZG",
+                "numero_bastidor": "R8Z63MN18UULCDTV8",
+                "anno": 2020,
+                "marca": "Hyundai",
+                "modelo": "Elantra",
+                "categoria": "SUV"
+            },
+            {
+                "matricula": "4217-HTJ",
+                "numero_bastidor": "BZVZ72MZ4E7DG2VG1",
+                "anno": 2014,
+                "marca": "Hyundai",
+                "modelo": "i30",
+                "categoria": "sed\u00e1n"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Macario de Ibarra",
+        "dni_usuario": "55350452D",
+        "email_usuario": "macariodeibarra2861018@gmail.com",
+        "telefono_movil_usuario": "+34973354161",
+        "telefono_fijo_usuario": "986887795",
+        "direccion_usuario": "Urbanizaci\u00f3n de Nydia Granados 142",
+        "ciudad_usuario": "Melilla",
+        "codigo_postal_usuario": "52006",
+        "provincia_usuario": "Ceuta",
+        "coches": [
+            {
+                "matricula": "7022-JMK",
+                "numero_bastidor": "DSMT56VM6KYBA2D94",
+                "anno": 2015,
+                "marca": "Skoda",
+                "modelo": "Kodiaq",
+                "categoria": "deportivo"
+            },
+            {
+                "matricula": "AB-1861-TB",
+                "numero_bastidor": "RAARXCJV49LWNJPRE",
+                "anno": 1994,
+                "marca": "Nissan",
+                "modelo": "Juke",
+                "categoria": "monovolumen"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Atilio de Enr\u00edquez",
+        "dni_usuario": "51625222C",
+        "email_usuario": "atiliodeenr\u00edquez2160759@hotmail.com",
+        "telefono_movil_usuario": "+34924343333",
+        "telefono_fijo_usuario": "912081736",
+        "direccion_usuario": "Glorieta Tania Rivero 65 Apt. 98 ",
+        "ciudad_usuario": "Canencia",
+        "codigo_postal_usuario": "28743",
+        "provincia_usuario": "Madrid",
+        "coches": [
+            {
+                "matricula": "1341-MSK",
+                "numero_bastidor": "7BB7TW569GYHRMJ3T",
+                "anno": 2023,
+                "marca": "Kia",
+                "modelo": "Sorento",
+                "categoria": "berlina"
+            },
+            {
+                "matricula": "6099-HBB",
+                "numero_bastidor": "G72MNHR70W74MJ5AP",
+                "anno": 2012,
+                "marca": "Kia",
+                "modelo": "Sportage",
+                "categoria": "descapotable"
+            },
+            {
+                "matricula": "CA-7245-GW",
+                "numero_bastidor": "8XDZS6MY5X8JGJXVA",
+                "anno": 1993,
+                "marca": "Audi",
+                "modelo": "A4",
+                "categoria": "todoterreno"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Clara del Gal\u00e1n",
+        "dni_usuario": "70445318K",
+        "email_usuario": "claradelgal\u00e1n3014002@yahoo.com",
+        "telefono_movil_usuario": "+34873612127",
+        "telefono_fijo_usuario": "907444898",
+        "direccion_usuario": "Vial Marina Di\u00e9guez 6",
+        "ciudad_usuario": "Nu\u00f1omoral",
+        "codigo_postal_usuario": "10627",
+        "provincia_usuario": "C\u00e1ceres",
+        "coches": [
+            {
+                "matricula": "BI-1782-HS",
+                "numero_bastidor": "P8G4W4WP584RUAVSU",
+                "anno": 1991,
+                "marca": "Nissan",
+                "modelo": "Qashqai",
+                "categoria": "urbanos"
+            },
+            {
+                "matricula": "9653-CVD",
+                "numero_bastidor": "EEEBXJP30NPVZG2RW",
+                "anno": 2004,
+                "marca": "Kia",
+                "modelo": "Picanto",
+                "categoria": "berlina"
+            },
+            {
+                "matricula": "5268-CPX",
+                "numero_bastidor": "DM6MRZD90VAPTDLGW",
+                "anno": 2004,
+                "marca": "Mazda",
+                "modelo": "CX-5",
+                "categoria": "cup\u00e9"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Nuria Lamas Ju\u00e1rez",
+        "dni_usuario": "78082507Z",
+        "email_usuario": "nurialamasju\u00e1rez1012430@yahoo.com",
+        "telefono_movil_usuario": "+34988637233",
+        "telefono_fijo_usuario": "976942072",
+        "direccion_usuario": "Glorieta Cleto Ballester 582 Puerta 2 ",
+        "ciudad_usuario": "Castellnovo",
+        "codigo_postal_usuario": "12413",
+        "provincia_usuario": "Castell\u00f3n/Castell\u00f3",
+        "coches": [
+            {
+                "matricula": "6948-JHG",
+                "numero_bastidor": "RPH15PWB80W4D3593",
+                "anno": 2017,
+                "marca": "Nissan",
+                "modelo": "Leaf",
+                "categoria": "SUV"
+            },
+            {
+                "matricula": "6324-GJX",
+                "numero_bastidor": "NSM8BXNB00WNN614Y",
+                "anno": 2010,
+                "marca": "Renault",
+                "modelo": "Scenic",
+                "categoria": "sed\u00e1n"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Herminio Sala Matas",
+        "dni_usuario": "96259464W",
+        "email_usuario": "herminiosalamatas7693439@yahoo.com",
+        "telefono_movil_usuario": "+34841659813",
+        "telefono_fijo_usuario": "906067321",
+        "direccion_usuario": "C. de Leonardo Arenas 34 Puerta 7 ",
+        "ciudad_usuario": "Valle de Eg\u00fc\u00e9s/Eguesibar",
+        "codigo_postal_usuario": "31486",
+        "provincia_usuario": "Navarra",
+        "coches": [
+            {
+                "matricula": "8146-KBH",
+                "numero_bastidor": "ALRKXL1R6LS567XVV",
+                "anno": 2018,
+                "marca": "Honda",
+                "modelo": "Jazz",
+                "categoria": "todoterreno"
+            },
+            {
+                "matricula": "A-8391-PR",
+                "numero_bastidor": "XFV46088XW59LDP6Z",
+                "anno": 1997,
+                "marca": "Audi",
+                "modelo": "Q7",
+                "categoria": "cup\u00e9"
+            },
+            {
+                "matricula": "8769-HWL",
+                "numero_bastidor": "4USB23338U5LA31GH",
+                "anno": 2013,
+                "marca": "Audi",
+                "modelo": "A3",
+                "categoria": "todoterreno"
+            },
+            {
+                "matricula": "7569-KBH",
+                "numero_bastidor": "TJ9C73TT357176M0M",
+                "anno": 2019,
+                "marca": "Hyundai",
+                "modelo": "Tucson",
+                "categoria": "SUV"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Malena Salcedo Galv\u00e1n",
+        "dni_usuario": "08296396C",
+        "email_usuario": "malenasalcedogalv\u00e1n732859@hotmail.com",
+        "telefono_movil_usuario": "+34842393387",
+        "telefono_fijo_usuario": "944354511",
+        "direccion_usuario": "Rambla Lorena Pallar\u00e8s 22 Apt. 47 ",
+        "ciudad_usuario": "Och\u00e1nduri",
+        "codigo_postal_usuario": "26213",
+        "provincia_usuario": "Rioja, La",
+        "coches": [
+            {
+                "matricula": "9500-HVT",
+                "numero_bastidor": "88M0E9V8X83VP59BL",
+                "anno": 2014,
+                "marca": "Audi",
+                "modelo": "A3",
+                "categoria": "monovolumen"
+            },
+            {
+                "matricula": "VA-2195-RZ",
+                "numero_bastidor": "T27L5NUV42PRSL3DJ",
+                "anno": 1995,
+                "marca": "Honda",
+                "modelo": "Accord",
+                "categoria": "descapotable"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Juan Francisco Cobo Guerrero",
+        "dni_usuario": "02454579L",
+        "email_usuario": "juanfranciscocoboguerrero4528158@hotmail.com",
+        "telefono_movil_usuario": "+34854718697",
+        "telefono_fijo_usuario": "971099203",
+        "direccion_usuario": "Acceso Isabela Blazquez 504 Puerta 2 ",
+        "ciudad_usuario": "Torrecillas de la Tiesa",
+        "codigo_postal_usuario": "10252",
+        "provincia_usuario": "C\u00e1ceres",
+        "coches": [
+            {
+                "matricula": "Z-7323-ZR",
+                "numero_bastidor": "Y038GWR00KTGTBKMY",
+                "anno": 1995,
+                "marca": "Mazda",
+                "modelo": "MX-5",
+                "categoria": "urbanos"
+            },
+            {
+                "matricula": "2531-GFP",
+                "numero_bastidor": "7VTPKEAN2KHPRVMHL",
+                "anno": 2010,
+                "marca": "Hyundai",
+                "modelo": "i30",
+                "categoria": "urbanos"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Edmundo Narv\u00e1ez",
+        "dni_usuario": "01539041L",
+        "email_usuario": "edmundonarv\u00e1ez5411547@hotmail.com",
+        "telefono_movil_usuario": "+34973788855",
+        "telefono_fijo_usuario": "978010192",
+        "direccion_usuario": "Urbanizaci\u00f3n Silvia Cantero 43",
+        "ciudad_usuario": "Murcia",
+        "codigo_postal_usuario": "30151",
+        "provincia_usuario": "Murcia",
+        "coches": [
+            {
+                "matricula": "5872-JWC",
+                "numero_bastidor": "M85UN9LC5248UNS96",
+                "anno": 2017,
+                "marca": "Toyota",
+                "modelo": "Corolla",
+                "categoria": "SUV"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Etelvina Araujo Lopez",
+        "dni_usuario": "65403966Q",
+        "email_usuario": "etelvinaaraujolopez7158418@gmail.com",
+        "telefono_movil_usuario": "+34902189895",
+        "telefono_fijo_usuario": "947578812",
+        "direccion_usuario": "Plaza Luis Esparza 6 Puerta 6 ",
+        "ciudad_usuario": "Vilob\u00ed d'Onyar",
+        "codigo_postal_usuario": "17184",
+        "provincia_usuario": "Girona",
+        "coches": [
+            {
+                "matricula": "3269-BYL",
+                "numero_bastidor": "NXC1X6WT8KY83H990",
+                "anno": 2002,
+                "marca": "Nissan",
+                "modelo": "Juke",
+                "categoria": "furgoneta"
+            },
+            {
+                "matricula": "8375-FMG",
+                "numero_bastidor": "XS2F0XTPXZFV20ACD",
+                "anno": 2008,
+                "marca": "Ford",
+                "modelo": "Mustang",
+                "categoria": "berlina"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Marciano Marti",
+        "dni_usuario": "89857749S",
+        "email_usuario": "marcianomarti2901261@hotmail.com",
+        "telefono_movil_usuario": "+34845615834",
+        "telefono_fijo_usuario": "978918700",
+        "direccion_usuario": "Ca\u00f1ada de Lino Garc\u00eda 64",
+        "ciudad_usuario": "Fonz",
+        "codigo_postal_usuario": "22417",
+        "provincia_usuario": "Huesca",
+        "coches": [
+            {
+                "matricula": "8601-JTB",
+                "numero_bastidor": "F2SHSR925MGC1FDSV",
+                "anno": 2015,
+                "marca": "BMW",
+                "modelo": "Z4",
+                "categoria": "sed\u00e1n"
+            },
+            {
+                "matricula": "1252-LGY",
+                "numero_bastidor": "F74LK0951KM1840LR",
+                "anno": 2020,
+                "marca": "Mercedes-Benz",
+                "modelo": "GLC",
+                "categoria": "descapotable"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Encarna Ballester Morera",
+        "dni_usuario": "73433183W",
+        "email_usuario": "encarnaballestermorera1535084@yahoo.com",
+        "telefono_movil_usuario": "+34987250478",
+        "telefono_fijo_usuario": "926477619",
+        "direccion_usuario": "Plaza de Lola Pallar\u00e8s 13 Piso 4 ",
+        "ciudad_usuario": "Algimia de Almonacid",
+        "codigo_postal_usuario": "12414",
+        "provincia_usuario": "Castell\u00f3n/Castell\u00f3",
+        "coches": [
+            {
+                "matricula": "8165-GPT",
+                "numero_bastidor": "A5XW902P8V5UHMUH1",
+                "anno": 2010,
+                "marca": "Volkswagen",
+                "modelo": "Passat",
+                "categoria": "deportivo"
+            },
+            {
+                "matricula": "7364-CPP",
+                "numero_bastidor": "5B9ZN4PLXCM8E1A9R",
+                "anno": 2004,
+                "marca": "Ford",
+                "modelo": "Fiesta",
+                "categoria": "furgoneta"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Olivia Robledo-Plaza",
+        "dni_usuario": "80535007R",
+        "email_usuario": "oliviarobledo-plaza381192@yahoo.com",
+        "telefono_movil_usuario": "+34875090150",
+        "telefono_fijo_usuario": "960745176",
+        "direccion_usuario": "Callej\u00f3n Gabino Pineda 873 Piso 7 ",
+        "ciudad_usuario": "Plentzia",
+        "codigo_postal_usuario": "48620",
+        "provincia_usuario": "Bizkaia",
+        "coches": [
+            {
+                "matricula": "2451-FZH",
+                "numero_bastidor": "HUGU473A9UBPSRGRZ",
+                "anno": 2007,
+                "marca": "Ford",
+                "modelo": "Focus",
+                "categoria": "berlina"
+            },
+            {
+                "matricula": "CR-5564-TG",
+                "numero_bastidor": "B8CMJSW307487FGYX",
+                "anno": 1995,
+                "marca": "Nissan",
+                "modelo": "Juke",
+                "categoria": "deportivo"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Carla Acu\u00f1a Carlos",
+        "dni_usuario": "11370206H",
+        "email_usuario": "carlaacu\u00f1acarlos8259275@gmail.com",
+        "telefono_movil_usuario": "+34828399906",
+        "telefono_fijo_usuario": "942396594",
+        "direccion_usuario": "Pasaje de Edu Ja\u00e9n 95",
+        "ciudad_usuario": "Vilam\u00f2s",
+        "codigo_postal_usuario": "25551",
+        "provincia_usuario": "Lleida",
+        "coches": [
+            {
+                "matricula": "CO-5933-GV",
+                "numero_bastidor": "BB5CU0J27M5DXF4NT",
+                "anno": 1998,
+                "marca": "Audi",
+                "modelo": "A3",
+                "categoria": "berlina"
+            },
+            {
+                "matricula": "4663-KHH",
+                "numero_bastidor": "W14B372J4K1XB8TR5",
+                "anno": 2019,
+                "marca": "Honda",
+                "modelo": "Accord",
+                "categoria": "cup\u00e9"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Isidora Ojeda Huerta",
+        "dni_usuario": "26973716Y",
+        "email_usuario": "isidoraojedahuerta3743644@yahoo.com",
+        "telefono_movil_usuario": "+34874755607",
+        "telefono_fijo_usuario": "985442356",
+        "direccion_usuario": "Paseo de Cayetano Manso 13 Piso 9 ",
+        "ciudad_usuario": "Madrid",
+        "codigo_postal_usuario": "28050",
+        "provincia_usuario": "Madrid",
+        "coches": [
+            {
+                "matricula": "9428-CYS",
+                "numero_bastidor": "5PW1RJGJ49792KDC2",
+                "anno": 2003,
+                "marca": "Kia",
+                "modelo": "Sorento",
+                "categoria": "berlina"
+            },
+            {
+                "matricula": "3975-DVC",
+                "numero_bastidor": "84GN05B88J4SGU9ZV",
+                "anno": 2005,
+                "marca": "Hyundai",
+                "modelo": "Elantra",
+                "categoria": "berlina"
+            },
+            {
+                "matricula": "4948-CRL",
+                "numero_bastidor": "6UJ4BG5HXLSNU30XP",
+                "anno": 2004,
+                "marca": "Volkswagen",
+                "modelo": "Polo",
+                "categoria": "SUV"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Manu D\u00edez-Haro",
+        "dni_usuario": "86765389M",
+        "email_usuario": "manud\u00edez-haro6988007@gmail.com",
+        "telefono_movil_usuario": "+34980588540",
+        "telefono_fijo_usuario": "928225468",
+        "direccion_usuario": "Ca\u00f1ada Marisol Hervia 4",
+        "ciudad_usuario": "Gisclareny",
+        "codigo_postal_usuario": "08695",
+        "provincia_usuario": "Barcelona",
+        "coches": [
+            {
+                "matricula": "1518-BYK",
+                "numero_bastidor": "F2UKAEU89JF6RCH4F",
+                "anno": 2000,
+                "marca": "BMW",
+                "modelo": "Z4",
+                "categoria": "monovolumen"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Soledad Monreal Bola\u00f1os",
+        "dni_usuario": "45626650D",
+        "email_usuario": "soledadmonrealbola\u00f1os1954572@gmail.com",
+        "telefono_movil_usuario": "+34844366980",
+        "telefono_fijo_usuario": "948262694",
+        "direccion_usuario": "Acceso de Vanesa Mendoza 68",
+        "ciudad_usuario": "Cuevas del Almanzora",
+        "codigo_postal_usuario": "04617",
+        "provincia_usuario": "Almer\u00eda",
+        "coches": [
+            {
+                "matricula": "6403-BDF",
+                "numero_bastidor": "RLA1VG3U9GLSMPCG5",
+                "anno": 2001,
+                "marca": "Ford",
+                "modelo": "Focus",
+                "categoria": "furgoneta"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Celso Pedro Tena",
+        "dni_usuario": "09281562G",
+        "email_usuario": "celsopedrotena7159524@yahoo.com",
+        "telefono_movil_usuario": "+34977358413",
+        "telefono_fijo_usuario": "962856708",
+        "direccion_usuario": "Pasaje Francisco Jose T\u00e9llez 4",
+        "ciudad_usuario": "Desconocida",
+        "codigo_postal_usuario": "Desconocida",
+        "provincia_usuario": "Melilla",
+        "coches": [
+            {
+                "matricula": "CS-1777-RG",
+                "numero_bastidor": "C5VJA0CU092MUN0CG",
+                "anno": 1999,
+                "marca": "Ford",
+                "modelo": "Focus",
+                "categoria": "furgoneta"
+            },
+            {
+                "matricula": "9957-GLY",
+                "numero_bastidor": "5MB4TWMF0RAZ9F6P8",
+                "anno": 2010,
+                "marca": "Mazda",
+                "modelo": "CX-5",
+                "categoria": "cup\u00e9"
+            },
+            {
+                "matricula": "1166-HWS",
+                "numero_bastidor": "2W72DZX597DBF5NZK",
+                "anno": 2013,
+                "marca": "Peugeot",
+                "modelo": "508",
+                "categoria": "urbanos"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Jenny Fiol Salinas",
+        "dni_usuario": "74110567J",
+        "email_usuario": "jennyfiolsalinas858679@hotmail.com",
+        "telefono_movil_usuario": "+34874212238",
+        "telefono_fijo_usuario": "942665572",
+        "direccion_usuario": "Urbanizaci\u00f3n Alfonso Peral 626 Apt. 96 ",
+        "ciudad_usuario": "Vila-seca",
+        "codigo_postal_usuario": "43481",
+        "provincia_usuario": "Tarragona",
+        "coches": [
+            {
+                "matricula": "GU-8274-VP",
+                "numero_bastidor": "TRHVYLRH3G1MY9JEV",
+                "anno": 1992,
+                "marca": "Skoda",
+                "modelo": "Octavia",
+                "categoria": "furgoneta"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Artemio Bartolom\u00e9 Godoy",
+        "dni_usuario": "22364931F",
+        "email_usuario": "artemiobartolom\u00e9godoy1115550@gmail.com",
+        "telefono_movil_usuario": "+34874737240",
+        "telefono_fijo_usuario": "943467474",
+        "direccion_usuario": "Paseo de Tatiana Franco 49 Puerta 0 ",
+        "ciudad_usuario": "Junta de Traslaloma",
+        "codigo_postal_usuario": "09510",
+        "provincia_usuario": "Burgos",
+        "coches": [
+            {
+                "matricula": "6239-DCJ",
+                "numero_bastidor": "Y7ZTMYDZ5Y9VN453V",
+                "anno": 2005,
+                "marca": "Seat",
+                "modelo": "Ibiza",
+                "categoria": "cup\u00e9"
+            },
+            {
+                "matricula": "7612-DNZ",
+                "numero_bastidor": "3JT5N7FK9YHFE2NSX",
+                "anno": 2006,
+                "marca": "Seat",
+                "modelo": "Ibiza",
+                "categoria": "monovolumen"
+            },
+            {
+                "matricula": "2049-GDV",
+                "numero_bastidor": "MWJKX5Z652WWK9T4F",
+                "anno": 2009,
+                "marca": "Nissan",
+                "modelo": "Qashqai",
+                "categoria": "berlina"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Paulina Bravo Berrocal",
+        "dni_usuario": "20537622W",
+        "email_usuario": "paulinabravoberrocal3803662@yahoo.com",
+        "telefono_movil_usuario": "+34806127362",
+        "telefono_fijo_usuario": "988759571",
+        "direccion_usuario": "Pasadizo Sara Baquero 91 Puerta 9 ",
+        "ciudad_usuario": "San Nicol\u00e1s del Puerto",
+        "codigo_postal_usuario": "41388",
+        "provincia_usuario": "Sevilla",
+        "coches": [
+            {
+                "matricula": "5936-HXY",
+                "numero_bastidor": "35FPMXLX7Y8ZH8KES",
+                "anno": 2014,
+                "marca": "Fiat",
+                "modelo": "Tipo",
+                "categoria": "todoterreno"
+            },
+            {
+                "matricula": "VI-3473-VX",
+                "numero_bastidor": "FMWV0JJ26AWMGKS43",
+                "anno": 1991,
+                "marca": "Mercedes-Benz",
+                "modelo": "S-Class",
+                "categoria": "monovolumen"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Charo del Mas",
+        "dni_usuario": "04022767K",
+        "email_usuario": "charodelmas8133463@hotmail.com",
+        "telefono_movil_usuario": "+34848699856",
+        "telefono_fijo_usuario": "983333022",
+        "direccion_usuario": "Paseo \u00c1gueda Robles 645",
+        "ciudad_usuario": "Alegia",
+        "codigo_postal_usuario": "20260",
+        "provincia_usuario": "Gipuzkoa",
+        "coches": [
+            {
+                "matricula": "2697-DYY",
+                "numero_bastidor": "RN8VC09J7APUWHAW7",
+                "anno": 2005,
+                "marca": "Toyota",
+                "modelo": "RAV4",
+                "categoria": "monovolumen"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Aurelio de Moles",
+        "dni_usuario": "89329724R",
+        "email_usuario": "aureliodemoles6757124@yahoo.com",
+        "telefono_movil_usuario": "+34841677150",
+        "telefono_fijo_usuario": "946632137",
+        "direccion_usuario": "Ca\u00f1ada de Filomena Guerra 63 Piso 5 ",
+        "ciudad_usuario": "Orxeta",
+        "codigo_postal_usuario": "03579",
+        "provincia_usuario": "Alicante/Alacant",
+        "coches": [
+            {
+                "matricula": "GU-2530-NS",
+                "numero_bastidor": "JGH73NS5X2ZU7AERT",
+                "anno": 1994,
+                "marca": "Toyota",
+                "modelo": "Camry",
+                "categoria": "furgoneta"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Dami\u00e1n Fiol-Torrijos",
+        "dni_usuario": "17267127S",
+        "email_usuario": "dami\u00e1nfiol-torrijos87342@gmail.com",
+        "telefono_movil_usuario": "+34971877012",
+        "telefono_fijo_usuario": "941109389",
+        "direccion_usuario": "Pasaje de Leticia Torres 56",
+        "ciudad_usuario": "Fuente la Reina",
+        "codigo_postal_usuario": "12428",
+        "provincia_usuario": "Castell\u00f3n/Castell\u00f3",
+        "coches": [
+            {
+                "matricula": "5434-KZX",
+                "numero_bastidor": "Z3CJWPW10NS279PBT",
+                "anno": 2019,
+                "marca": "Audi",
+                "modelo": "A4",
+                "categoria": "cup\u00e9"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Natividad Soler Belmonte",
+        "dni_usuario": "75467485T",
+        "email_usuario": "natividadsolerbelmonte6080069@gmail.com",
+        "telefono_movil_usuario": "+34874060540",
+        "telefono_fijo_usuario": "942506739",
+        "direccion_usuario": "Glorieta de Carolina Ferrando 482",
+        "ciudad_usuario": "Mata de Alc\u00e1ntara",
+        "codigo_postal_usuario": "10970",
+        "provincia_usuario": "C\u00e1ceres",
+        "coches": [
+            {
+                "matricula": "A-3995-MX",
+                "numero_bastidor": "VTYCYDP0XFJC5E3TE",
+                "anno": 1990,
+                "marca": "Mercedes-Benz",
+                "modelo": "S-Class",
+                "categoria": "todoterreno"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Lope Mateos-Aguilar",
+        "dni_usuario": "00712669Z",
+        "email_usuario": "lopemateos-aguilar6797741@gmail.com",
+        "telefono_movil_usuario": "+34844028464",
+        "telefono_fijo_usuario": "985008614",
+        "direccion_usuario": "Ronda Inocencio Esteve 4 Piso 5 ",
+        "ciudad_usuario": "Muro",
+        "codigo_postal_usuario": "07458",
+        "provincia_usuario": "Balears, Illes",
+        "coches": [
+            {
+                "matricula": "8988-CRZ",
+                "numero_bastidor": "7LYWG5M08XALGYTRR",
+                "anno": 2003,
+                "marca": "Renault",
+                "modelo": "Megane",
+                "categoria": "monovolumen"
+            }
+        ]
+    },
+    {
+        "nombre_usuario": "Marisela Cobo",
+        "dni_usuario": "05816219W",
+        "email_usuario": "mariselacobo972803@hotmail.com",
+        "telefono_movil_usuario": "+34949057013",
+        "telefono_fijo_usuario": "985272254",
+        "direccion_usuario": "Via de Benjam\u00edn Vizca\u00edno 27",
+        "ciudad_usuario": "Vilaboa",
+        "codigo_postal_usuario": "36140",
+        "provincia_usuario": "Pontevedra",
+        "coches": [
+            {
+                "matricula": "AL-6535-KJ",
+                "numero_bastidor": "VRRREAEC9WBYJ10VE",
+                "anno": 1997,
+                "marca": "Mazda",
+                "modelo": "Mazda6",
+                "categoria": "todoterreno"
+            }
+        ]
+    }
+]
