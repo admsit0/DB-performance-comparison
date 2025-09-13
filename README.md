@@ -1,9 +1,7 @@
-Bases de datos - 3ero Ciencia de datos
-Práctica 1 - Análisis de rendimiento y perfilado
-Entrega 22/Oct/2024
+Bases de datos - Análisis de rendimiento y perfilado
 
 En este repositorio se encuentran todos los archivos y explicaciones necesarias para
-replicar el análisis llevado a cabo en la práctica 1 de BBDD.
+replicar el análisis llevado a cabo sobre cuatro SGBD.
 
 Los resultados se pueden encontrar como los outputs del notebook IPython 'main.ipynb'
 Las explicaciones y razonamientos teóricos, en la memoria pdf, 'memoria_AdamMaltoni_deMingoIbón.pdf'
