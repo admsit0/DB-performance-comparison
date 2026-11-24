@@ -10,4 +10,4 @@ El código fuente, que a menudo en el notebook se encuentra importado (se ha opt
 compacto, a nivel de código posible) se ha organizado en una arquitectura modular en la carpeta 'modules/'
 
 Adam Maltoni
-Ibón de Mingo
+Ibón de Mingo Arroyo
